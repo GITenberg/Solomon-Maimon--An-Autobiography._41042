@@ -1,0 +1,45 @@
+_repo: Solomon-Maimon--An-Autobiography._41042
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Murray, John Clark
+    alias: Murray, J. Clark (John Clark)
+    birthdate: 1836
+    deathdate: 1917
+    gutenberg_agent_id: '40948'
+    url: http://www.gutenberg.org/2009/agents/40948
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maimon, Solomon
+    aliases:
+    - Maimon, Solomon
+    - Maimon, Salomone
+    - Maimon, Shelomoh
+    - Majmon, Salomon
+    - Josua, Salomon ben
+    - Solomon ben Joshua
+    - Salomon ben Josua
+    - Joshua, Solomon ben
+    birthdate: 1754
+    deathdate: 1800
+    gutenberg_agent_id: '40947'
+    url: http://www.gutenberg.org/2009/agents/40947
+description: ''
+gutenberg_issued: '2012-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Maimon, Salomon, 1754-1800'
+- !lcsh 'Jewish philosophers -- Germany -- Biography'
+- !lcsh 'Judaism -- Europe, Eastern -- History -- 18th century'
+title: 'Solomon Maimon: An Autobiography.'
+url: http://www.gutenberg.org/ebooks/41042
